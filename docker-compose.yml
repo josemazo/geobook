@@ -1,7 +1,7 @@
 geobook:
-  image: josemazo/geobook:latest
+  image: josemazo/geobook
   env_file: resources/sensitive_data.env
   ports:
-  - "8000:8000"
+  - "8888:8888"
   volumes:
     - ./notebooks:/workdir
