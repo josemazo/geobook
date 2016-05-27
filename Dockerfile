@@ -1,4 +1,4 @@
-# Geobook (reBMO) - josemazo/Geobook
+# Geobook (reBMO) - josemazo/geobook
 
 FROM ubuntu:16.04
 
