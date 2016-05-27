@@ -1,2 +1,4 @@
-# geobook
-reBMO
+# Geobook (reBMO)
+=================
+
+Doc in progress.
